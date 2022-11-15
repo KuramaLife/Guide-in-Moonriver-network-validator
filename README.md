@@ -5,7 +5,7 @@ In this guide you will find a detailed description of how to create a validator 
 [Website](https://moonbeam.network/) [Twitter](https://twitter.com/MoonbeamNetwork) [Discord](https://discord.gg/moonbeam)
 
 # Explorer
-[Explorer](https://telemetry.polkadot.io/#list/0xfe58ea77779b7abda7da4ec526d14db9b1e9cd40a217c34892af80a9b332b76d)
+[Explorer](https://telemetry.polkadot.io/#list/0x401a1f9dca3da46f5c4091016c8a2f26dcea05865116b286f60f668207d1474b)
 # Install Node Guide 
 ### Setting up variables
 First you need to download the binary file of the current version
