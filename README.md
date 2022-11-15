@@ -1,3 +1,6 @@
+![Anadir-un-titulo-15](https://user-images.githubusercontent.com/83699173/201930807-6ea0c7cc-6fd0-43df-a833-bdd99a8f79f7.jpg)
+
+
 # Guide-in-Moonriver-network-validator
 In this guide you will find a detailed description of how to create a validator on the Moonriver network
 In this guide you will find a detailed description of how to create a validator on the Moonbeam network 
